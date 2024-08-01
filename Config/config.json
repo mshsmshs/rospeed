@@ -1,7 +1,7 @@
 {
     "performance": {
-        "process": 4,
-        "threads": 1000
+        "process": 8,
+        "threads": 1100
     },
     "request": {
         "module": "socket",
@@ -13,8 +13,8 @@
             "sortedIds": false,
             "randomIds": true
         },
-        "min": 32000000,
-        "max": 40000000,
+        "min": 10000000,
+        "max": 50000000,
         "batchsize": 100
     },
     "webhook": {
