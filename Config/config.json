@@ -1,6 +1,6 @@
 {
     "performance": {
-        "process": 8,
+        "process": 4,
         "threads": 1000
     },
     "request": {
